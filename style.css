@@ -1,0 +1,17 @@
+/*this is a CSS COMMENT*/
+/*select by element TYPE*/
+p {
+
+    color: rgb(42, 68, 151)
+}
+h1,h2,h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+/* Select by CLASS name*/
+.border {
+    border: 2px solid black;
+}
+/* select by ID name (unique)*/
+#intro{
+    background-color: lavender;
+}
