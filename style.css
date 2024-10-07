@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sixtyfour+Convergence&display=swap');
 /*this is a CSS COMMENT*/
 /*select by element TYPE*/
 p {
@@ -5,7 +7,7 @@ p {
     color: rgb(42, 68, 151)
 }
 h1,h2,h3 {
-    font-family: cursive ;
+    font-family: "Sixtyfour Convergence", sans-serif ;
 }
 /* Select by CLASS name*/
 .border {
@@ -24,4 +26,11 @@ strong{
 }
 h1{
     text-align: center ;
+}
+all{
+    background-color: antiquewhite;
+}
+body{
+    background-color: honeydew;
+    font-family: "Raleway", sans-serif;
 }
