@@ -34,3 +34,14 @@ body{
     background-color: honeydew;
     font-family: "Raleway", sans-serif;
 }
+img{
+   border-width: 6px; 
+   border-style: OUTSET ;
+   border-color: silver ;
+   border-radius: 100% ;
+}
+hr{
+    border: width 5px;
+    border-style: groove ; 
+    border-color: purple ;
+}
