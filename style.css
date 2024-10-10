@@ -39,9 +39,15 @@ img{
    border-style: OUTSET ;
    border-color: silver ;
    border-radius: 100% ;
+   margin: 2;
 }
 hr{
     border: width 5px;
     border-style: groove ; 
     border-color: purple ;
+    margin: px;
+}
+.center{
+    margin: auto ;
+    text-align : center ;
 }
